@@ -1,0 +1,17 @@
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\bin\Debug\m2l2.exe
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\bin\Debug\m2l2.pdb
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.Properties.Resources.resources
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.exe
+c:\users\osn\documents\visual studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.pdb
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.form.resources
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\bin\Debug\MySql.Data.dll
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.Form2.resources
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\bin\Debug\itextsharp.dll
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\bin\Debug\itextsharp.pdfa.dll
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\bin\Debug\itextsharp.xtra.dll
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\bin\Debug\itextsharp.xml
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.Form3.resources
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\m2l2\m2l2\obj\x86\Debug\m2l2.Form4.resources
